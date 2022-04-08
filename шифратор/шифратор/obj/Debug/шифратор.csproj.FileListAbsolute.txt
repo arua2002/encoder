@@ -1,0 +1,13 @@
+C:\Users\руслан\Desktop\моя работа\шифратор\шифратор\bin\Debug\шифратор.exe.config
+C:\Users\руслан\Desktop\моя работа\шифратор\шифратор\bin\Debug\шифратор.exe
+C:\Users\руслан\Desktop\моя работа\шифратор\шифратор\bin\Debug\шифратор.pdb
+C:\Users\руслан\Desktop\моя работа\шифратор\шифратор\obj\Debug\шифратор.csprojAssemblyReference.cache
+C:\Users\руслан\Desktop\моя работа\шифратор\шифратор\obj\Debug\шифратор.Form1.resources
+C:\Users\руслан\Desktop\моя работа\шифратор\шифратор\obj\Debug\шифратор.Properties.Resources.resources
+C:\Users\руслан\Desktop\моя работа\шифратор\шифратор\obj\Debug\шифратор.csproj.GenerateResource.cache
+C:\Users\руслан\Desktop\моя работа\шифратор\шифратор\obj\Debug\шифратор.csproj.CoreCompileInputs.cache
+C:\Users\руслан\Desktop\моя работа\шифратор\шифратор\obj\Debug\шифратор.exe
+C:\Users\руслан\Desktop\моя работа\шифратор\шифратор\obj\Debug\шифратор.pdb
+C:\Users\Руслан\Desktop\хуи\шифратор\шифратор\bin\Debug\шифратор.exe.config
+C:\Users\Руслан\Desktop\хуи\шифратор\шифратор\obj\Debug\шифратор.exe
+C:\Users\Руслан\Desktop\хуи\шифратор\шифратор\obj\Debug\шифратор.pdb
